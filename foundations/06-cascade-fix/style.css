@@ -9,16 +9,15 @@ body {
 }
 
 .small-para {
-  font-size: 14px;
-  font-weight: 800;
+  font-size: 10px;
 }
 
 .para {
-  font-size: 22px;
+  font-size: 40px;
 }
 
 .confirm {
-  background: green;
+  background-color: green;
   color: white;
   font-weight: bold;
 } 
